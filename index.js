@@ -86,8 +86,7 @@ app.post('/bfhl', (req, res) => {
 });
 
 
-app.get('/,req,res=()=>{
-       console.log("do post methods"); })
+
 
 const PORT = process.env.PORT || 3000;
 
